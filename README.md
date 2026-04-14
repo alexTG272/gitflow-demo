@@ -1,6 +1,4 @@
 # gitflow-demo
-cat > README.md << 'EOF'
-# gitflow-demo
 
 ## Estrategia de branching: GitFlow
 
